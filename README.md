@@ -10,7 +10,7 @@ The commented code # runs too just gives different results and it does not combi
 
 The final code running combines all the uppercase and lowercase letters, digits and the symbols to produce a random password each time. I used random.SystemRandom for the cryptography aspect (someone might explain this better) but it's meant to generate a 'stronger' password.
 
-I used '''.sample()''' for the output purposes (specified to print out a password of length 10) and trial and just because :), you can use '''.choice()''' if prefered.
+I used ```.sample()``` for the output purposes (specified to print out a password of length 10) and trial and just because :), you can use ```.choice()``` if prefered.
 
 Otherwise you can pay for LastPass and use it to generate a password for you and store it. PS: it uses the same procedure.
 
